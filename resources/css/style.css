@@ -407,6 +407,7 @@ p.under-image{
 .thesis-list{
   width: 40%;
   margin-top: .9rem;
+  padding-bottom: 2rem;
 }
 
 .thesis-li h4{
@@ -434,6 +435,10 @@ p.under-image{
   opacity: .75;
 }
 
+.span{
+  position: relative;
+  top: -1rem;
+}
 @media screen and (max-width: 640px){
   .thesis{
     padding-top: 2rem;
